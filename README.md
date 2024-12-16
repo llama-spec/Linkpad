@@ -61,6 +61,6 @@ Make sure you have the following installed:
    ```  
 
 ## Usage  
-- **Create a new document**: Start a new document and share it by using the email of collaborate.  
+- **Create a new document**: Start a new document and share it by using the email of collaborator.  
 - **Collaborate**: See live updates from collaborators and interact via comments and threads.  
 - **Customize**: Use the modern, responsive UI to focus on your workflow.  
