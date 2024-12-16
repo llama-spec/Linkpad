@@ -7,9 +7,7 @@
 - **Live Cursor**: See the cursors of other collaborators as they edit the document.  
 - **Threaded Comments**: Leave comments and create threads for discussions directly in the document.  
 - **Modern UI**: Built with **Tailwind CSS** for a sleek and responsive design.  
-- **Secure Authentication**: User accounts are managed using **Clerk**, ensuring secure access.  
-- **Reliable Syncing**: Powered by **Liveblocks** to handle real-time updates and collaboration seamlessly.  
-
+- **Secure Authentication**: User accounts are managed using **Clerk**, ensuring secure access.\
 ## Tech Stack  
 - **Frontend**: [Next.js](https://nextjs.org/) and [React](https://react.dev/)  
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)  
