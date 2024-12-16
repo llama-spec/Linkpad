@@ -9,7 +9,7 @@
 - **Modern UI**: Built with **Tailwind CSS** for a sleek and responsive design.  
 - **Secure Authentication**: User accounts are managed using **Clerk**, ensuring secure access.\
 ## Tech Stack  
-- **Frontend**: [Next.js](https://nextjs.org/) and [React](https://react.dev/)  
+- **Frontend and Backend**: [Next.js](https://nextjs.org/) and [React](https://react.dev/)  
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)  
 - **Authentication**: [Clerk](https://clerk.dev/)  
 - **Real-Time Collaboration**: [Liveblocks](https://liveblocks.io/)  
