@@ -1,6 +1,6 @@
 
 ## Introduction  
-**Text-Editor** is a real-time collaborative web application that allows users to share and edit documents. With features like live cursors, real-time text updates, and threaded comments, it’s an tool for teams, writers, and developers looking to collaborate efficiently.  
+**Linkpad** is a real-time collaborative web application that allows users to share and edit documents. With features like live cursors, real-time text updates, and threaded comments, it’s an tool for teams, writers, and developers looking to collaborate efficiently.  
 
 ## Features  
 - **Real-Time Collaboration**: Edit documents with others in real time. Changes are synced for all participants.  
@@ -25,8 +25,8 @@ Make sure you have the following installed:
 ### Steps  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/text-editor.git
-   cd text-editor
+   git clone https://github.com/your-username/Linkpad.git
+   cd Linkpad
    ```  
 2. Install dependencies:  
    ```bash
