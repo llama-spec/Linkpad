@@ -6,7 +6,7 @@ import Provider from "./Provider";
 
 
 export const metadata: Metadata = {
-  title: "Docs",
+  title: "Linkpad",
   description: "Text editor with collaboration",
 };
 
