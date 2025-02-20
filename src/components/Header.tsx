@@ -14,7 +14,7 @@ function Header({ children, className }: HeaderProps) {
                         width={45}
                         height={45}
                         className='hidden md:block' />
-                    <p className='text-3xl'>Docs</p>
+                    <p className='text-3xl'>Linkpad</p>
                 </div>
             </Link>
             {children}
