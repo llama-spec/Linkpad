@@ -14,6 +14,9 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <ClerkProvider appearance={{
       baseTheme: dark,
+      layout: {
+        unsafe_disableDevelopmentModeWarnings: true
+      },
     }}>
       <html lang="en">
         <body>
